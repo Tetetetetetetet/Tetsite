@@ -9,7 +9,7 @@ export interface SocialLink{
 export default defineSiteConfig({
   mode: 'auto',
   lang: 'zh-CN',
-  title: 'Tet Blogs',
+  title: 'Tetsite',
   subtitle: 'A CS 蒟蒻\s Blog',
   description: 'No Game No Life',
   author: {
