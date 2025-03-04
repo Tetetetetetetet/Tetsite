@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tettet.org/</id>
+    <title>Tet Blogs</title>
+    <updated>2025-03-04T02:04:48.872Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Tet</name>
+        <email>tett8107@gmail.com</email>
+        <uri>https://tetetetetetetet.github.io</uri>
+    </author>
+    <link rel="alternate" href="https://tettet.org/"/>
+    <link rel="self" href="https://tettet.org/atom.xml"/>
+    <subtitle>No Game No Life</subtitle>
+    <logo>https://tettet.org/avatar.jpg</logo>
+    <icon>https://tettet.org/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Tet</rights>
+    <entry>
+        <title type="html"><![CDATA[valaxy 开发 log]]></title>
+        <id>https://tettet.org/posts/valaxy</id>
+        <link href="https://tettet.org/posts/valaxy"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>当我学会开始看官方doc</h1>
+<h2>shortcuts</h2>
+<p><code>package.json</code>里可以设置快捷命令</p>
+<pre><code class="language-json">{
+  &quot;scripts&quot;: {
+    &quot;build&quot;: &quot;npm run b</code></pre>
+<br/><p>访问 <a href="https://tettet.org/posts/valaxy" target="_blank">https://tettet.org/posts/valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>tett8107@gmail.com</email>
+            <uri>https://tetetetetetetet.github.io</uri>
+        </author>
+        <published>2025-03-04T02:04:29.969Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need 创意韩国料理]]></title>
+        <id>https://tettet.org/posts/babyfood/need</id>
+        <link href="https://tettet.org/posts/babyfood/need"/>
+        <updated>2025-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>menu</strong></em>：</p>
+<ul>
+<li>马苏里拉芝士辣炒鸡</li>
+<li>小龙虾麻辣奶油意面</li>
+<li>牛肋排</li>
+<li>蜂蜜无花果雪冰</li>
+</ul>
+<p>dang dang dang 可恶居然有水印<br>
+<img src="https://tettet.org/food/need_1.jpg" alt="主菜"></p>
+<br/><p>访问 <a href="https://tettet.org/posts/babyfood/need" target="_blank">https://tettet.org/posts/babyfood/need</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>tett8107@gmail.com</email>
+            <uri>https://tetetetetetetet.github.io</uri>
+        </author>
+        <published>2025-03-04T02:04:29.969Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time for Food]]></title>
+        <id>https://tettet.org/posts/babyfood/TimeForFood</id>
+        <link href="https://tettet.org/posts/babyfood/TimeForFood"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>挺有意思的名字 <em><strong>Time for FOOD</strong></em><br>
+<img src="https://tettet.org/food/TimeForFood.jpg" alt="TimeForFood"></p>
+<h3>好吃的</h3>
+<h2>更重要的是和谁一起吃</h2>
+<br/><p>访问 <a href="https://tettet.org/posts/babyfood/TimeForFood" target="_blank">https://tettet.org/posts/babyfood/TimeForFood</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Tet</name>
+            <email>tett8107@gmail.com</email>
+            <uri>https://tetetetetetetet.github.io</uri>
+        </author>
+        <published>2025-02-18T00:00:00.000Z</published>
+    </entry>
+</feed>

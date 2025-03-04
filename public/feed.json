@@ -1,0 +1,50 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tet Blogs",
+    "home_page_url": "https://tettet.org/",
+    "feed_url": "https://tettet.org/feed.json",
+    "description": "No Game No Life",
+    "icon": "https://tettet.org/avatar.jpg",
+    "author": {
+        "name": "Tet",
+        "url": "https://tetetetetetetet.github.io"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>当我学会开始看官方doc</h1>\n<h2>shortcuts</h2>\n<p><code>package.json</code>里可以设置快捷命令</p>\n<pre><code class=\"language-json\">{\n  &quot;scripts&quot;: {\n    &quot;build&quot;: &quot;npm run b</code></pre>\n<br/><p>访问 <a href=\"https://tettet.org/posts/valaxy\" target=\"_blank\">https://tettet.org/posts/valaxy</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/valaxy",
+            "title": "valaxy 开发 log",
+            "date_modified": "2025-03-03T00:00:00.000Z",
+            "date_published": "2025-03-04T02:04:29.969Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><em><strong>menu</strong></em>：</p>\n<ul>\n<li>马苏里拉芝士辣炒鸡</li>\n<li>小龙虾麻辣奶油意面</li>\n<li>牛肋排</li>\n<li>蜂蜜无花果雪冰</li>\n</ul>\n<p>dang dang dang 可恶居然有水印<br>\n<img src=\"https://tettet.org/food/need_1.jpg\" alt=\"主菜\"></p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/need\" target=\"_blank\">https://tettet.org/posts/babyfood/need</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/need",
+            "title": "Need 创意韩国料理",
+            "date_modified": "2025-03-02T00:00:00.000Z",
+            "date_published": "2025-03-04T02:04:29.969Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>挺有意思的名字 <em><strong>Time for FOOD</strong></em><br>\n<img src=\"https://tettet.org/food/TimeForFood.jpg\" alt=\"TimeForFood\"></p>\n<h3>好吃的</h3>\n<h2>更重要的是和谁一起吃</h2>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/TimeForFood\" target=\"_blank\">https://tettet.org/posts/babyfood/TimeForFood</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/TimeForFood",
+            "title": "Time for Food",
+            "date_modified": "2025-02-17T00:00:00.000Z",
+            "date_published": "2025-02-18T00:00:00.000Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        }
+    ]
+}
