@@ -27,20 +27,14 @@ export default defineSiteConfig({
   url: 'https://tettet.org',
   social: [
     {
-      name: 'RSS',
-      link: '/atom.xml',
-      icon: 'i-ri-rss-line',
-      color: 'orange',
-    },
-    {
       name: 'steam',
-      link:'',
+      link:'https://s.team/p/cmrq-bmdc/DWRRDTNJ',
       icon: 'i-ri-steam-line',
       color: 'black',
     },
     {
       name: '1785131421',
-      link: '/',
+      link: 'https://qm.qq.com/q/fY2JVDJdFQ',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
@@ -51,69 +45,21 @@ export default defineSiteConfig({
       color: '#6e5494',
     },
     {
-      name: '微博(not set)',
-      link: '',
-      icon: 'i-ri-weibo-line',
-      color: '#E6162D',
-    },
-    {
-      name: '豆瓣(not set)',
-      link: '',
-      icon: 'i-ri-douban-line',
-      color: '#007722',
-    },
-    {
-      name: '网易云音乐(not set)',
-      link: '',
-      icon: 'i-ri-netease-cloud-music-line',
-      color: '#C20C0C',
-    },
-    {
-      name: '知乎(not set)',
-      link: '',
-      icon: 'i-ri-zhihu-line',
-      color: '#0084FF',
-    },
-    {
-      name: '哔哩哔哩(not set)',
-      link: '',
-      icon: 'i-ri-bilibili-line',
-      color: '#FF8EB3',
-    },
-    {
-      name: '微信公众号(not set)',
-      link: '',
-      icon: 'i-ri-wechat-2-line',
-      color: '#1AAD19',
-    },
-    {
-      name: 'Twitter(not set)',
-      link: '',
-      icon: 'i-ri-twitter-x-fill',
-      color: 'black',
-    },
-    {
-      name: 'Telegram Channel(not set)',
-      link: '',
-      icon: 'i-ri-telegram-line',
-      color: '#0088CC',
-    },
-    {
-      name: 'E-Mail',
-      link: 'tet3268688@outlook.com',
+      name: 'E-Mail: tet3268688@outlook.com',
+      link: '/email',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
     {
-      name: 'Travelling(not set)',
-      link: '',
-      icon: 'i-ri-train-line',
-      color: 'var(--va-c-text)',
+      name: '闲鱼',
+      link:'https://m.tb.cn/h.TvCSCVO?tk=S6wwelfeQpD',
+      icon:'i-ri-taobao-line',
+      color: 'orange',
     },
   ],
 
   search: {
-    enable: false,
+    enable: true,
   },
 
 
