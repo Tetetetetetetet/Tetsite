@@ -40,12 +40,6 @@ export default defineValaxyConfig<UserThemeConfig>({
         color: 'lightblue',
       },
       {
-        name: 'bad food',
-        url: '/categories?category=bad+food',
-        icon: 'i-ri-thumb-down-line',
-        color: 'green',
-      },
-      {
         name: 'valaxy',
         url: '/categories?category=valaxy',
         icon: 'i-ri-global-line',
