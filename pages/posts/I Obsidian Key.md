@@ -13,7 +13,7 @@ excerpt_type: md
 将笔记发出来一方面是解决其他人可能遇到的问题，一方面主要是*方便在自己移动端obsidian崩掉的时候重新搭* :)
 
 **reference**
-[知乎：obsidian git 多段同步](<github repo url(推荐使用https)>
+参考了知乎上一篇《obsidian git 多段同步》，不过这会儿找不到了
 
 # 第一步
 自然是将自己的Obsidian仓库上传到github，public/private均可
@@ -61,12 +61,13 @@ rc-service sshd restart
 ```
 复制粘贴
 ```
-cd ~ && mkdir obsidian
+cd ~ && mkdir obsidian && mkdir obsidian/repo
 mount -t ios . obsidian 
-cd ~/obsidian/Obsidian
+cd ~/obsidian/repo
 git init
-git config --global --add safe.directory /root/obsidian/Obsidian
+git config --global --add safe.directory /root/obsidian/repo
 git remote add origin <github仓库链接(推荐使用https)>
+git pull
 ```
 会打开文件管理器，需要选中Obsidian所在目录
 # Pure Version
@@ -97,8 +98,8 @@ cd ~ && mkdir obsidian
 mount -t ios . obsidian
 cd ~/obsidian
 git init
-git clone <github repo url(推荐使用https)>
+git clone <github仓库链接(推荐使用https)>
 ```
 **Authentication: 然后需要输入**
 - Username: github Username
-- Password: （其实不是password, github将其改为了personal access token)
+- Password: (其实不是password, github将其改为了personal access token)
