@@ -35,6 +35,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/babyfood/oeat': RouteRecordInfo<'/posts/babyfood/oeat', '/posts/babyfood/oeat', Record<never, never>, Record<never, never>>,
     '/posts/babyfood/TimeForFood': RouteRecordInfo<'/posts/babyfood/TimeForFood', '/posts/babyfood/TimeForFood', Record<never, never>, Record<never, never>>,
     '/posts/babyfood/牛排家': RouteRecordInfo<'/posts/babyfood/牛排家', '/posts/babyfood/牛排家', Record<never, never>, Record<never, never>>,
+    '/posts/babyfood/面屋藏玄': RouteRecordInfo<'/posts/babyfood/面屋藏玄', '/posts/babyfood/面屋藏玄', Record<never, never>, Record<never, never>>,
     '/posts/dessert/dreameater': RouteRecordInfo<'/posts/dessert/dreameater', '/posts/dessert/dreameater', Record<never, never>, Record<never, never>>,
     '/posts/I Obsidian Key': RouteRecordInfo<'/posts/I Obsidian Key', '/posts/I Obsidian Key', Record<never, never>, Record<never, never>>,
     '/posts/valaxy': RouteRecordInfo<'/posts/valaxy', '/posts/valaxy', Record<never, never>, Record<never, never>>,
