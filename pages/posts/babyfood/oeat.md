@@ -1,5 +1,5 @@
 ---
-title: "O\'eat Viaggio"
+title: "O'eat Viaggio"
 categories: fine food
 tag: 
     - fine food

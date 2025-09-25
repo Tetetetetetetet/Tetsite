@@ -30,8 +30,11 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
+    '/posts/babyfood/cook1': RouteRecordInfo<'/posts/babyfood/cook1', '/posts/babyfood/cook1', Record<never, never>, Record<never, never>>,
     '/posts/babyfood/need': RouteRecordInfo<'/posts/babyfood/need', '/posts/babyfood/need', Record<never, never>, Record<never, never>>,
+    '/posts/babyfood/oeat': RouteRecordInfo<'/posts/babyfood/oeat', '/posts/babyfood/oeat', Record<never, never>, Record<never, never>>,
     '/posts/babyfood/TimeForFood': RouteRecordInfo<'/posts/babyfood/TimeForFood', '/posts/babyfood/TimeForFood', Record<never, never>, Record<never, never>>,
+    '/posts/I Obsidian Key': RouteRecordInfo<'/posts/I Obsidian Key', '/posts/I Obsidian Key', Record<never, never>, Record<never, never>>,
     '/posts/valaxy': RouteRecordInfo<'/posts/valaxy', '/posts/valaxy', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
