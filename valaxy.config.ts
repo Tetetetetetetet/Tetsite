@@ -10,6 +10,14 @@ const safelist = [
   'i-ri-thumb-down-line',
   'i-ri-global-line',
   'i-ri-earth-line',
+  'i-ri-qq-line',
+  'i-ri-github-line',
+  'i-ri-mail-line',
+  'i-ri-taobao-line',
+  'i-ri-alipay-line',
+  'i-ri-wechat-pay-line',
+  'i-ri-folder-2-line',
+  'i-ri-price-tag-3-line',
 ]
 
 /**
