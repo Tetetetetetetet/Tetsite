@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Tet Blogs",
+    "title": "Tetsite",
     "home_page_url": "https://tettet.org/",
     "feed_url": "https://tettet.org/feed.json",
     "description": "No Game No Life",
@@ -12,11 +12,143 @@
     "items": [
         {
             "id": "",
+            "content_html": "<p>在合肥商场遇到哈根达斯买一送一的活动！美味冰淇淋化身<strong>平价美味冰淇淋</strong>，吸引力next level &lt;3</p>\n<p><img src=\"https://tettet.org/food/%E5%93%88%E6%A0%B9%E8%BE%BE%E6%96%AF%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80.jpg\" alt=\"hagdaz\"></p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/dessert/hagdaz\" target=\"_blank\">https://tettet.org/posts/dessert/hagdaz</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/dessert/hagdaz",
+            "title": "哈根达斯买一送一",
+            "date_modified": "2025-11-30T11:24:16.531Z",
+            "date_published": "2025-11-30T11:24:16.531Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<blockquote>\n<p>在杭州吃的，西安没有，不然我们肯定会买爆</p>\n</blockquote>\n<p>我认为，在蛋糕的领域上，沐夏浅秋已经是生日蛋糕的不二之选，但是两人吃总是有点过大了；而在小蛋糕的领域上，<strong>布歌东京</strong>已经是next level了!</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/dessert/布歌东京\" target=\"_blank\">https://tettet.org/posts/dessert/布歌东京</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/dessert/布歌东京",
+            "title": "布歌东京",
+            "date_modified": "2025-11-30T11:24:16.531Z",
+            "date_published": "2025-11-30T11:24:16.531Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><img src=\"https://tettet.org/food/%E9%BA%A6%E8%AE%B0%E7%89%9B%E5%A5%B6%E5%85%AC%E5%8F%B8.jpg\" alt=\"image\"></p>\n<p>一家很单纯的做牛奶甜水的店！味道有一种没有被工业化污染的美感，甜度适中，有牛奶的香味，本牛奶脑袋很喜欢</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/dessert/麦记牛奶公司\" target=\"_blank\">https://tettet.org/posts/dessert/麦记牛奶公司</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/dessert/麦记牛奶公司",
+            "title": "麦记牛奶公司",
+            "date_modified": "2025-11-30T11:24:16.531Z",
+            "date_published": "2025-11-30T11:24:16.531Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<blockquote>\n<p>听说曾经有一段时间，这里的意大利面可以外卖。我觉得外卖失去了 <strong>意大利奶酪肉酱面</strong>，等同于西方失去了<strong>耶路撒冷</strong></p>\n</blockquote>\n<p><img src=\"https://tettet.org/food/nana%E5%AE%B6.jpg\" alt=\"nana\"></p>\n<h2>意大利奶酪肉</h2>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/nana\" target=\"_blank\">https://tettet.org/posts/babyfood/nana</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/nana",
+            "title": "娜娜家 · Nana And Her Friends Restaurant",
+            "date_modified": "2025-11-30T11:24:16.530Z",
+            "date_published": "2025-11-30T11:24:16.530Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>在合肥吃的美味自助！</p>\n<p><img src=\"https://tettet.org/food/niuniu.JPG\" alt=\"niuniu\"></p>\n<blockquote>\n<p>吃过牛niu后，西安的自助总是让人失望</p>\n</blockquote>\n<p>虽然有点贵，用在小红书上买的券也要500多的样子，但是同价位以及一些更</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/牛niu\" target=\"_blank\">https://tettet.org/posts/babyfood/牛niu</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/牛niu",
+            "title": "牛New寿喜烧",
+            "date_modified": "2025-11-30T11:24:16.530Z",
+            "date_published": "2025-11-30T11:24:16.530Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>去的是西安合生汇店，冲着 <strong>300天纪念日</strong> 吃漂亮饭的目的去的，吃的撑撑得回来 ：）</p>\n<p><img src=\"https://tettet.org/food/sprime_snail.JPG\" alt=\"prime_snail\"></p>\n<blockquote>\n<p>招牌和牛春卷，法式香草</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/牛排家\" target=\"_blank\">https://tettet.org/posts/babyfood/牛排家</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/牛排家",
+            "title": "牛排家",
+            "date_modified": "2025-07-04T00:00:00.000Z",
+            "date_published": "2025-11-30T11:24:16.530Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>至今吃过最好吃的拉面！是会特意跑几公里去就为了吃碗面的程度！<br>\n<img src=\"https://tettet.org/food/king_meme.PNG\" alt=\"rank\"></p>\n<p><img src=\"/food/cangxuan.jpg\" alt=\"noodles\"></p>\n<p>几乎没有踩雷</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/面屋藏玄\" target=\"_blank\">https://tettet.org/posts/babyfood/面屋藏玄</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/面屋藏玄",
+            "title": "面屋藏玄",
+            "date_modified": "2025-11-30T11:24:16.530Z",
+            "date_published": "2025-11-30T11:24:16.530Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>不知不觉就一周年啦</h1>\n<p>虽然因为ddl把一周年放在过了几天才庆祝，不过周一来饭店几乎没有人，有一种把饭店包下来的感觉！ o:)</p>\n<p>一年前的这个时候，被迷惑的骗走了<strong>初吻</strong>，然后就迎来了幸福的一年</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/oeat\" target=\"_blank\">https://tettet.org/posts/babyfood/oeat</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/oeat",
+            "title": "O'eat Viaggio",
+            "date_modified": "2025-09-22T00:00:00.000Z",
+            "date_published": "2025-09-25T09:55:35.735Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>什么时候吃的已经记不清了，味道还可以，就是服务态度很差的感觉 :(</p>\n<p><img src=\"https://tettet.org/food/dreameater.jpg\" alt=\"dreameater\"></p>\n<blockquote>\n<p>但是摆盘精致好看</p>\n</blockquote>\n<p>在这里的吃的时候，旁边有个小姐姐一</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/dessert/dreameater\" target=\"_blank\">https://tettet.org/posts/dessert/dreameater</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/dessert/dreameater",
+            "title": "DreamEater",
+            "date_modified": "2025-09-25T09:14:03.323Z",
+            "date_published": "2025-09-25T09:14:03.323Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>Forehead</h1>\n<p>将笔记发出来一方面是解决其他人可能遇到的问题，一方面主要是<em>方便在自己移动端obsidian崩掉的时候重新搭</em> :)</p>\n<p><strong>reference</strong><br>\n参考了知乎上一篇《obsidi</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/I Obsidian Key\" target=\"_blank\">https://tettet.org/posts/I Obsidian Key</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/I Obsidian Key",
+            "title": "Obsidian+git windows & ios同步究极指南",
+            "date_modified": "2025-04-01T00:00:00.000Z",
+            "date_published": "2025-06-20T14:39:05.284Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
             "content_html": "<h1>当我学会开始看官方doc</h1>\n<h2>shortcuts</h2>\n<p><code>package.json</code>里可以设置快捷命令</p>\n<pre><code class=\"language-json\">{\n  &quot;scripts&quot;: {\n    &quot;build&quot;: &quot;npm run b</code></pre>\n<br/><p>访问 <a href=\"https://tettet.org/posts/valaxy\" target=\"_blank\">https://tettet.org/posts/valaxy</a> 阅读全文。</p>",
             "url": "https://tettet.org/posts/valaxy",
             "title": "valaxy 开发 log",
             "date_modified": "2025-03-03T00:00:00.000Z",
-            "date_published": "2025-03-04T02:04:29.969Z",
+            "date_published": "2025-06-20T14:39:05.284Z",
+            "author": {
+                "name": "Tet",
+                "url": "https://tetetetetetetet.github.io"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>关于我转生到西交开始学做饭这件事</h1>\n<p>虽然各种事情都已经要来不及要完蛋了，但是还是百忙之中做了一个违背祖宗的决定——开始做饭！最后发现果然学做饭什么的完全没有必要，跟着xhs教程随便一弄，好吃的不行，</p>\n<br/><p>访问 <a href=\"https://tettet.org/posts/babyfood/cook1\" target=\"_blank\">https://tettet.org/posts/babyfood/cook1</a> 阅读全文。</p>",
+            "url": "https://tettet.org/posts/babyfood/cook1",
+            "title": "Start Cooking: 可乐鸡翅 & 番茄肥牛烩饭",
+            "date_modified": "2025-03-19T00:00:00.000Z",
+            "date_published": "2025-06-20T14:39:05.284Z",
             "author": {
                 "name": "Tet",
                 "url": "https://tetetetetetetet.github.io"
@@ -28,7 +160,7 @@
             "url": "https://tettet.org/posts/babyfood/need",
             "title": "Need 创意韩国料理",
             "date_modified": "2025-03-02T00:00:00.000Z",
-            "date_published": "2025-03-04T02:04:29.969Z",
+            "date_published": "2025-06-20T14:39:05.284Z",
             "author": {
                 "name": "Tet",
                 "url": "https://tetetetetetetet.github.io"

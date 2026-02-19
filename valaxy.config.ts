@@ -1,5 +1,6 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
+import { icons as riIcons } from '@iconify-json/ri'
 
 // add icons what you will need
 const safelist = [
@@ -30,6 +31,15 @@ export default defineValaxyConfig<UserThemeConfig>({
   markdown: {
     
   },
+
+  unocssPresets: {
+    icons: {
+      collections: {
+        ri: () => riIcons,
+      },
+    },
+  },
+
   themeConfig: {
     banner: {
       enable: true,
